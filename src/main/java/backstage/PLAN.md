@@ -34,7 +34,7 @@ some iterations, and try to make my notes as self-descriptive as possible:
 | `✓`      | **make template example package** |  |
 | `✓`      | **make template practice package** |  |
 | `✓`      | **populate placeholder files** |  |
-| ` `      | **get new github token to push to new account** | why does this always feel confusing to do? |
+| `✓`      | **get new github token to push to new account** | why does this always feel confusing to do? |
 
 #### Iteration 2
 
